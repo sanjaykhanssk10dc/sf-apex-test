@@ -1,4 +1,4 @@
-public with sharing class testingClassTwo {
+public with sharing class testingClass {
     public testingClass() {
 		
     }
